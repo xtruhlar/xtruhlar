@@ -22,3 +22,5 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtruhlar&theme=dark&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=your-github-xtruhlar&label=PROFILE+VIEWS)
