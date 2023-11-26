@@ -21,7 +21,6 @@
 <!-- <img src="" height="40" style="vertical-align:top; margin:4px"> -->
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtruhlar&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtruhlar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-xtruhlar&label=PROFILE+VIEWS)
