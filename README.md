@@ -21,6 +21,7 @@
 <!-- <img src="" height="40" style="vertical-align:top; margin:4px"> -->
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtruhlar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtruhlar&layout=donut&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&lang_count=5&icon_color=2bbc8a)](https://github.com/anuraghazra/github-readme-stats)
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"-->
 
 ![](https://komarev.com/ghpvc/?username=your-github-xtruhlar&label=PROFILE+VIEWS)
