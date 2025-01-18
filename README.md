@@ -49,7 +49,7 @@
 ### **Networking and Monitoring**
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=xtruhlar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xtruhlar&theme=dark&hide_border=true)<br/>
