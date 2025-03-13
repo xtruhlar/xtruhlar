@@ -1,5 +1,14 @@
 # 💫 About Me:
-👨‍💻 Student at [FIIT STU](https://www.fiit.stuba.sk/)  <br>📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>🎓 Currently working on my bachelor's thesis: *Digital Twin of 5G Network - Future State Prediction*  <br>🚀 Passionate about software engineering, 5G and web development. <br>
+
+<div align="top">
+  <img align="right" src="https://github-readme-streak-stats-eight.vercel.app?user=xtruhlar&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=190&hide_total_contributions=true&hide_longest_streak=true" />
+</div>
+
+👨‍💻 Student at [FIIT STU](https://www.fiit.stuba.sk/)  <br>
+📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>
+🎓 Currently working on my bachelor's thesis: *Digital Twin of 5G Network - Future State Prediction*  <br>
+🚀 Passionate about software engineering, 5G and web development. <br>
+
 
 
 ## 🌐 Socials:
@@ -51,11 +60,8 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=xtruhlar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xtruhlar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xtruhlar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=xtruhlar&icon=6&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; justify-content: space-between;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xtruhlar&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtruhlar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</div>
