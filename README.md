@@ -6,7 +6,7 @@
 
 👨‍💻 Student at [FIIT STU](https://www.fiit.stuba.sk/)  <br>
 📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>
-🎓 Currently working on my bachelor's thesis: *Digital Twin of 5G Network - Future State Prediction*  <br>
+🎓 Currently working on my bachelor's thesis: *Towards Real-Time 5G Behavior Modeling Using Digital Twin and Online Adaptation*  <br>
 🚀 Passionate about software engineering, 5G and web development. <br>
 
 
