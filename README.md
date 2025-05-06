@@ -8,7 +8,7 @@
 📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>
 🚀 Passionate about software engineering, 5G and web development. <br><br>
 🎓 Currently working on my bachelor's thesis:
-<br> <pre>*Towards Real-Time 5G Behavior Modeling Using Digital Twin and Online Adaptation*</pre>  <br>
+<br>*Towards Real-Time 5G Behavior Modeling Using Digital Twin and Online Adaptation*
 
 
 
