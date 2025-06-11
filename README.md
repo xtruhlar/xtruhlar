@@ -4,11 +4,10 @@
   <img align="right" src="https://github-readme-streak-stats-eight.vercel.app?user=xtruhlar&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=190&hide_total_contributions=true&hide_longest_streak=true" />
 </div>
 
-👨‍💻 Student at [FIIT STU](https://www.fiit.stuba.sk/)  <br>
+👨‍💻 Gratuated from [FIIT STU](https://www.fiit.stuba.sk/)  <br>
 📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>
 🚀 Passionate about software engineering, 5G and web development. <br><br>
-🎓 Currently working on my bachelor's thesis:
-<br>*Towards Real-Time 5G Behavior Modeling Using Digital Twin and Online Adaptation*
+🎓 Currently working on Laravel Applications.
 
 
 
