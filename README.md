@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍💻 Gratuated from [FIIT STU](https://www.fiit.stuba.sk/)  <br>
-📚 IT Lector, Fullstack Laravel Developer, and Hosting Administrator  <br>
+👨‍💻 Gratuated from [FIIT STU](https://www.fiit.stuba.sk/) <br>
+💼 Fullstack Laravel Developer at Positive, and Hosting Administrator  <br>
 🚀 Passionate about software engineering, 5G and web development. <br><br>
 🎓 Currently working on Laravel Applications.
 
