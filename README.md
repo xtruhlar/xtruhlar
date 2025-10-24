@@ -16,17 +16,17 @@
 
 # 💻 Tech Stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp;  &nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/> &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40"/>&nbsp; &nbsp;  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
